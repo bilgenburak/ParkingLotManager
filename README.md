@@ -1,7 +1,7 @@
 # ParkingLotManager
 Parking Lot Manager app for iPhone. Created with Swift, Core Data and "Vision" library.
 
-# Added License Plates
+# List of License Plates
 
 <img src="https://raw.githubusercontent.com/bilgenburak/ParkingLotManager/main/ParkingLotManager/Assets.xcassets/1.png" width="300" height="600">
 
